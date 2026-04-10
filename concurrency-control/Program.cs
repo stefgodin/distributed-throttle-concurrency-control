@@ -1,4 +1,4 @@
-﻿using concurrency_control;
+﻿using ConcurrencyControl;
 using Microsoft.Data.Sqlite;
 using System.Security.Cryptography;
 
